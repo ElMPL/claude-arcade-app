@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Joystick con cruceta y cuatro botones de colores -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#FF0B0820" android:fillAlpha="0.35" android:pathData="M36,43H72C80,43 85,49 86,57L88,71C89,78 84,82 79,79L70,71H38L29,79C24,82 19,78 20,71L22,57C23,49 28,43 36,43Z" />
+    <path android:fillColor="#FFF3F0FF" android:pathData="M36,40H72C80,40 85,46 86,54L88,68C89,75 84,79 79,76L70,68H38L29,76C24,79 19,75 20,68L22,54C23,46 28,40 36,40Z" />
+    <path android:fillColor="#FF14102A" android:pathData="M35,46h6v5h5v6h-5v5h-6v-5h-5v-6h5z" />
+    <path android:fillColor="#FFFFCC00" android:pathData="M66.4,49a3.6,3.6 0 1,0 7.2,0a3.6,3.6 0 1,0 -7.2,0z" />
+    <path android:fillColor="#FFFF4D8D" android:pathData="M73.4,56a3.6,3.6 0 1,0 7.2,0a3.6,3.6 0 1,0 -7.2,0z" />
+    <path android:fillColor="#FF3EE08F" android:pathData="M59.4,56a3.6,3.6 0 1,0 7.2,0a3.6,3.6 0 1,0 -7.2,0z" />
+    <path android:fillColor="#FF5AA9FF" android:pathData="M66.4,63a3.6,3.6 0 1,0 7.2,0a3.6,3.6 0 1,0 -7.2,0z" />
+</vector>
