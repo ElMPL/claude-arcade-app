@@ -9,6 +9,8 @@ final class Config {
     static final String PATH = "/";
     /** Repo donde se publican las versiones nuevas del APK. */
     static final String REPO = "ElMPL/claude-arcade-app";
+    /** Nombre del APK en cada versión publicada. */
+    static final String APK = "claude-arcade.apk";
     static final String UA = "ClaudeArcadeApp";
     static final String NAME = "ClaudeArcade";
     static final int BG = 0xFF14102A;
